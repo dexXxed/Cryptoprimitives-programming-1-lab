@@ -110,7 +110,7 @@ int test_mulmod_comb(int n)
 }
 
 int main() {
-	int test_samples = 3000;
+	int test_samples = 5000;
 	cout << "Test samples: " << test_samples << endl;
 
 	int number_of_errors = test_mulmod_comb(test_samples);
