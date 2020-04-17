@@ -1,4 +1,5 @@
 # 💻 Реалізація та дослідження властивостей алгоритмів множення елементів поля GF(2<sup>m</sup>) у поліноміальному базисі
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6b96e8a09c1648868087a0ab3f3f1801)](https://app.codacy.com/manual/dexXxed/Cryptoprimitives-programming-1-lab?utm_source=github.com&utm_medium=referral&utm_content=dexXxed/Cryptoprimitives-programming-1-lab&utm_campaign=Badge_Grade_Dashboard)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 ## Для уровней оценивания B / A
